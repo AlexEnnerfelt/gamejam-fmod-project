@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{6f0e3da7-c257-41e1-9ad2-2cd691d80908}">
+		<property name="name">
+			<value>MonsterHunting</value>
+		</property>
+		<relationship name="folder">
+			<destination>{e6374777-c55c-42fa-8556-32c2854ecb9f}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{398679c7-819b-40cd-b2dc-86078e9bc57b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{398679c7-819b-40cd-b2dc-86078e9bc57b}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

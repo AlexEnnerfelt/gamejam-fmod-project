@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{ec6909fa-2bdf-41f0-8ee2-bce7ff55bfa8}">
+		<property name="assetPath">
+			<value>rustle/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e9e421eb-d379-4e88-a4b8-d164b43ec9cd}</destination>
+		</relationship>
+	</object>
+</objects>

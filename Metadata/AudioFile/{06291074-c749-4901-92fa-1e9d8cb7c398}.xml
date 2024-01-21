@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{06291074-c749-4901-92fa-1e9d8cb7c398}">
+		<property name="assetPath">
+			<value>104412__nanashi__trigger-with-hammer-fall.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.12562358276643992</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e9e421eb-d379-4e88-a4b8-d164b43ec9cd}</destination>
+		</relationship>
+	</object>
+</objects>

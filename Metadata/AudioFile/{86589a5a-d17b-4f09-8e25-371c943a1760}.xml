@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{86589a5a-d17b-4f09-8e25-371c943a1760}">
+		<property name="assetPath">
+			<value>699576__smillandwelson__m1895-lee-navy-shot-2.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.75724999999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e9e421eb-d379-4e88-a4b8-d164b43ec9cd}</destination>
+		</relationship>
+	</object>
+</objects>
